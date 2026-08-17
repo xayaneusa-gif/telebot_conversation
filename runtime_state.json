@@ -1,0 +1,9 @@
+{
+  "abuse_protection": false,
+  "not_in_chat_warning": true,
+  "payments": [],
+  "uids": [],
+  "users": {},
+  "traffic_mode": true,
+  "vip_mode": true
+}
